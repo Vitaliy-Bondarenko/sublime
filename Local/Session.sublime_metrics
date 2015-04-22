@@ -1,0 +1,25 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"0_package_control_loader",
+		"Better CoffeeScript",
+		"Coffee2Js",
+		"CoffeeAngular Syntax",
+		"Emmet",
+		"HTML2Slim",
+		"Jasmine CoffeeScript",
+		"JavaScript & Coffeescript Build Systems",
+		"Package Control",
+		"Ruby Slim",
+		"SCSS",
+		"SublimeLinter-coffee",
+		"TrailingSpaces"
+	],
+	"startup_sec": 0.255026,
+	"syntax":
+	{
+		"JavaScript (Rails)": 1
+	},
+	"time": 1429618028
+}

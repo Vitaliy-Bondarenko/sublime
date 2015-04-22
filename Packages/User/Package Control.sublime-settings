@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Coffee2Js",
+		"CoffeeAngular Syntax",
+		"Emmet",
+		"HTML2Slim",
+		"Jasmine CoffeeScript",
+		"JavaScript & Coffeescript Build Systems",
+		"Package Control",
+		"Ruby Slim",
+		"SCSS",
+		"SublimeLinter-coffee",
+		"TrailingSpaces"
+	]
+}
